@@ -21,7 +21,7 @@ pip install numpy
 
 
 ## Array:
-- *Arrays are the most important family of higher-order collections in machine learning. They are used to represent images, text documents and many other types of data*
+- *Arrays are the most important family of higher-order collections in machine learning. They are used to represent images, text documents and many other types of data.*
 
 |No |Topics |Code Link 🔗|
 |---|-------|--------|
@@ -32,7 +32,7 @@ pip install numpy
 
 
 ## Vectors
-- *A vector is a tuple of one or more values called scalars. Vectors are built from components, which are ordinary numbers. You can think of a vector as a list of numbers, and vector algebra as operations performed on the numbers in the list. Where v1, v2, v3 are scalar values, often real values.*
+- *A vector is a tuple of one or more values called scalars. Vectors are built from components, which are ordinary numbers. You can think of a vector as a list of numbers, and vector algebra as operations performed on the numbers in the list.*
 
 |No |Topics |Code Link 🔗|
 |---|-------|--------|
@@ -45,7 +45,8 @@ pip install numpy
 
 
 ## Matrices
-- *Matrices are rectangular arrays consisting of numbers and can be seen as 2nd-order tensors. If m and n are positive integers, that is m, n ∈ ℕ then the m×n matrix contains m*n numbers of elements, with m number of rows and n number of columns*
+- *Matrices are rectangular arrays consisting of numbers and can be seen as 2nd-order tensors. If m and n are positive integers, that is m, n ∈ ℕ then the m×n matrix contains m*n numbers of elements, with m number of rows and n number of columns.*
+
 |No |Topics |Code Link 🔗|
 |---|-------|--------|
 |1|Sum Matrices|[Code](https://github.com/rojaAchary/vectors_arrays_matrices/blob/main/Matrices/add_sum_mat.ipynb)|
@@ -75,7 +76,7 @@ Give a 🌟 to support me 😊
 @misc{Charged Neuron,
     author       = {Roja Achary},
     title        = {Vectors, Arrays, Matrices},
-    Credits      = {websites,CA}
+    Credits      = {websites,CA,me}
     month        = {November},
     year         = {2021}
 }
