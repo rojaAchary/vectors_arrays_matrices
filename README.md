@@ -3,7 +3,7 @@
 
 Programming is a great way to get insights about math concepts. You’ll see here tips and tricks to learn math, more specifically linear algebra, from a coding perspective. You’ll see the relationship between Numpy functions and linear algebra abstract concepts.
 
-At the end of this mini-tutorial, you’ll know what are vectors & matrices, and why they are the core of machine learning and data science..
+At the end of this mini-tutorial, you’ll know what are arrays ,vectors & matrices, and why they are the core of machine learning and data science.. so lets gets started
 
 ## What you will learn
 ✅Array are Homogeneous Data Structure<br>
@@ -21,16 +21,18 @@ pip install numpy
 
 
 ## Array:
+- *Arrays are the most important family of higher-order collections in machine learning. They are used to represent images, text documents and many other types of data*
 
 |No |Topics |Code Link 🔗|
 |---|-------|--------|
 |1|Elements in Array|[Code](https://github.com/rojaAchary/vectors_arrays_matrices/blob/main/Arrays/elem_array.ipynb)|
-|2|Properties of Array|[Code]|(https://github.com/rojaAchary/vectors_arrays_matrices/blob/main/Arrays/prop_array.ipynb)|
+|2|Properties of Array|[Code](https://github.com/rojaAchary/vectors_arrays_matrices/blob/main/Arrays/prop_array.ipynb)|
 |3|Reshape an Array|[Code](https://github.com/rojaAchary/vectors_arrays_matrices/blob/main/Arrays/reshape_array.ipynb)|
 |4|Array Operations|[Code](https://github.com/rojaAchary/vectors_arrays_matrices/blob/main/Arrays/array_ops.ipynb)|
 
 
 ## Vectors
+- *A vector is a tuple of one or more values called scalars. Vectors are built from components, which are ordinary numbers. You can think of a vector as a list of numbers, and vector algebra as operations performed on the numbers in the list. Where v1, v2, v3 are scalar values, often real values.*
 
 |No |Topics |Code Link 🔗|
 |---|-------|--------|
@@ -43,7 +45,7 @@ pip install numpy
 
 
 ## Matrices
-- 
+- *Matrices are rectangular arrays consisting of numbers and can be seen as 2nd-order tensors. If m and n are positive integers, that is m, n ∈ ℕ then the m×n matrix contains m*n numbers of elements, with m number of rows and n number of columns*
 |No |Topics |Code Link 🔗|
 |---|-------|--------|
 |1|Sum Matrices|[Code](https://github.com/rojaAchary/vectors_arrays_matrices/blob/main/Matrices/add_sum_mat.ipynb)|
@@ -58,6 +60,7 @@ pip install numpy
 |10|Sparse of Matrix|[Code](https://github.com/rojaAchary/vectors_arrays_matrices/blob/main/Matrices/sparse_matrix.ipynb)|
 
 
+# Illustration
 <img src = "https://github.com/rojaAchary/vectors_arrays_matrices/blob/main/sample_representation.png" width="1000">
 
 
